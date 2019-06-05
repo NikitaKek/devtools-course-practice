@@ -1,7 +1,6 @@
 // Copyright 2018 Pasechnik Nikita
 
 #include <gtest/gtest.h>
-
 #include "include/complex_number.h"
 
 TEST(Pasechnik_Nikita_ComplexNumberTest, Plus_Zero_Is_Equal) {
